@@ -6,7 +6,7 @@
 
 ## Problema
 
-Medidor longitud de peces (*ictiómetro*) para oceanográfico
+Medidor longitud de peces (*ictiómetro*) para ámbito oceanográfico.
 
 ----
 
@@ -17,21 +17,23 @@ By Retama, CC BY-SA 4.0, via Wikimedia Commons.
 https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
 </small>
 
-## Requisitos
-
-Opciones:
+## Opciones
 
 - Ictiómetros convencionales
-- Ictiómetro
-- Bandeja pulsadores
+- Ictiómetro digitales magnéticos
 - Procesado de imagen
+- Bandeja pulsadores
+
+## Requisitos
+
+- Barato
+- Precisión milimétrica
 
 ## Nuestra solución
 
-- calibre digital
-- udoo/arduino
-- udoo/linux
-
+- Calibre digital
+- Udoo/Arduino: driver
+- Udoo/Linux: adquisición de datos publicación en broker MQTT
 
 # Desarrollo
 
@@ -42,7 +44,7 @@ Opciones:
 
 ## Arduino
 
-- Firmware
+- Instrucciones
 
 ## Linux
 
