@@ -1,5 +1,7 @@
 # CallibreHack docs
 
+See [slides](http://calliperhack.github.io/docs/).
+
 ## Set up
 
 Burn the Udoo image.
