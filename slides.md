@@ -56,7 +56,7 @@ Opciones:
   Luigi Pirelli (@Ginetto)
 - ![](https://avatars1.githubusercontent.com/u/928566?v=3&s=64)
   Miguel González (@migonzalvar)
-- ![](https://avatars0.githubusercontent.com/u/4236093?v=3&s=400)
+- ![](https://avatars0.githubusercontent.com/u/4236093?v=3&s=64)
   Jorge Tornero (@jtornero)
 
 # Gracias
