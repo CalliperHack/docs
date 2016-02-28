@@ -73,7 +73,9 @@ https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
 
 - https://github.com/CalliperHack
 - https://www.hackster.io/calliperhack/digital-ictiometer-based-on-a-accurate-calliper-0e5369
-
+- ![CC BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+  ![GPLv3](http://www.gnu.org/graphics/gplv3-88x31.png)
+  
 # Gracias
 
 # Anexos
