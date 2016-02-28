@@ -93,7 +93,7 @@
           <y:Geometry height="363.0" width="405.0" x="178.0" y="69.0"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="corners" modelPosition="sw" textColor="#000000" visible="true" width="63.26171875" x="-67.26171875" y="363.0">Odoo Neo</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="corners" modelPosition="sw" textColor="#000000" visible="true" width="62.599609375" x="-66.599609375" y="363.0">Udoo Neo</y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
