@@ -35,6 +35,10 @@ https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
 - Udoo/Arduino: driver
 - Udoo/Linux: adquisición de datos publicación en broker MQTT
 
+----
+
+![](images/2016-02-28 10.54.30.jpg)
+
 # Desarrollo
 
 ## Dificultades calibre
@@ -44,11 +48,11 @@ https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
 
 ## Arduino
 
-- Instrucciones
+- Interrupciones
 
 ## Linux
 
--
+- Comunicación UART.
 
 ## Equipo
 
@@ -60,6 +64,11 @@ https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
   Miguel González (@migonzalvar)
 - ![](https://avatars0.githubusercontent.com/u/4236093?v=3&s=64)
   Jorge Tornero (@jtornero)
+
+## Enlaces
+
+- https://github.com/CalliperHack
+- https://www.hackster.io/calliperhack/digital-ictiometer-based-on-a-accurate-calliper-0e5369
 
 # Gracias
 
