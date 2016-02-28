@@ -37,6 +37,10 @@ https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
 
 ----
 
+![](images/components.png)
+
+----
+
 ![](images/2016-02-28 10.54.30.jpg)
 
 # Desarrollo
