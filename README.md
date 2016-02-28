@@ -8,6 +8,16 @@ Burn the Udoo image.
 $ sudo dd if=UDOObuntu_neo_v2.0rc1.img of=/dev/mmcblk0 bs=4M
 ```
 
+Install packages.
+
+## Wire protocol Arduino/Linux
+
+Arduino sends through the serial port two kinds of messages:
+
+- A measurement: `M 100\n`
+
+- A button: `BTN A\n`
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
