@@ -56,6 +56,8 @@ Opciones:
   Luigi Pirelli (@Ginetto)
 - ![](https://avatars1.githubusercontent.com/u/928566?v=3&s=64)
   Miguel González (@migonzalvar)
+- ![](https://avatars0.githubusercontent.com/u/4236093?v=3&s=400)
+  Jorge Tornero (@jtornero)
 
 # Gracias
 
@@ -63,7 +65,7 @@ Opciones:
 
 ## Fuentes
 
-- YVODIC. Ictiómetro digital usando pulsación de teclas. https://github.com/jtornero/YVODIc
+- YVODIC by Jorgue Tornero (@imasdemase) Ictiómetro digital usando pulsación de teclas: https://github.com/jtornero/YVODIc
 
 ## Fotos
 
