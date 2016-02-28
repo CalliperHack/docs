@@ -8,11 +8,21 @@
 
 Medidor longitud de peces (*ictiómetro*) para oceanográfico
 
+----
+
+![](images/external/800px-Ictiometer_Alburnus.jpg)
+
+<small>
+By Retama, CC BY-SA 4.0, via Wikimedia Commons.
+https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
+</small>
+
 ## Requisitos
 
 Opciones:
 
-- A mano
+- Ictiómetros convencionales
+- Ictiómetro
 - Bandeja pulsadores
 - Procesado de imagen
 
@@ -50,6 +60,10 @@ Opciones:
 # Gracias
 
 # Anexos
+
+## Fuentes
+
+- YVODIC. Ictiómetro digital usando pulsación de teclas. https://github.com/jtornero/YVODIc
 
 ## Fotos
 
