@@ -67,6 +67,37 @@ Opciones:
 
 - YVODIC by Jorgue Tornero (@imasdemase) Ictiómetro digital usando pulsación de teclas: https://github.com/jtornero/YVODIc
 
+
+## Screenshots
+
+![](screenshots/95_logic_analyzer.png)
+
+Primera captura de los datos emitidos por el calibre.
+
+----
+
+![](screenshots/96_timing.png)
+
+Timing de los paquetes enviados por el calibre.
+
+----
+
+![](screenshots/97_bits.png)
+
+Correspondencia en bits de los paquetes enviados por el calibre.
+
+----
+
+![](screenshots/98_sniffer.png)
+
+Sniffer creado en arduino pare descifrar los paquetes.
+
+----
+
+![](screenshots/99_decoding.png)
+
+Varias decodificaciones de los paquetes para buscar los datos de la medición.
+
 ## Fotos
 
 ![](images/2016-02-27 09.43.06.jpg)
