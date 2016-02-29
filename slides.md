@@ -48,15 +48,12 @@ https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
 ## Dificultades calibre
 
 - Problemas eléctricos calibre digital
-- Decodificar señal del calibre
+- Decodificar la señal del calibre
 
-## Arduino
+## Arduino - Udoo
 
-- Interrupciones
-
-## Linux
-
-- Comunicación UART.
+- Programación de interrupciones
+- Comunicación serie por UART
 
 ## Equipo
 
@@ -82,7 +79,7 @@ https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
 
 ## Fuentes
 
-- YVODIC by Jorgue Tornero (@imasdemase) Ictiómetro digital usando pulsación de teclas: https://github.com/jtornero/YVODIc
+- YVODIC by Jorge Tornero (@imasdemase) Ictiómetro digital usando pulsación de teclas: https://github.com/jtornero/YVODIc
 
 
 ## Screenshots
