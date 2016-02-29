@@ -58,13 +58,13 @@ https://commons.wikimedia.org/wiki/File:Ictiometer_Alburnus.jpg
 ## Equipo
 
 - ![](https://avatars1.githubusercontent.com/u/969061?v=3&s=64)
-  Rafa Couto (@caligari_pub)
+  Rafa Couto (TW @caligari_pub)
 - ![](https://avatars1.githubusercontent.com/u/3344634?v=3&s=64)
-  Luigi Pirelli (@Ginetto)
+  Luigi Pirelli (TW @Ginetto)
 - ![](https://avatars1.githubusercontent.com/u/928566?v=3&s=64)
-  Miguel González (@migonzalvar)
+  Miguel González (TW @migonzalvar)
 - ![](https://avatars0.githubusercontent.com/u/4236093?v=3&s=64)
-  Jorge Tornero (@jtornero)
+  Jorge Tornero (TW @imasdemase)
 
 ## Enlaces
 
